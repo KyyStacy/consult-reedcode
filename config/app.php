@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'name' => str_replace('_', ' ', env('APP_NAME')),
+    'name' => env('APP_NAME'),
 
 
     /*
